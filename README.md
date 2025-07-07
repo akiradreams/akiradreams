@@ -1,1 +1,42 @@
-![Metrics](https://metrics.lecoq.io/akiradreams?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&music=1&rss=1&wakatime=1&leetcode=1&fortune=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&music=false&music.provider=spotify&music.user=akiradreams&music.mode=top&music.playlist=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F5ZYmwnpr73WHwSB0kFwt5a%3Fsi%3D00d7d47e51984772&music.limit=9&music.played.at=false&music.time.range=medium&music.top.type=tracks&rss=false&rss.source=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews&rss.limit=4&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&leetcode=false&leetcode.user=akalidreams&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&stock=false&stock.symbol=ETH&stock.duration=1d&stock.interval=1m&config.timezone=Europe%2FMadrid)
+<!-- Typing effect header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+%7C+Cybersecurity+N2;Python+%7C+Bash+%7C+Linux+%7C+Docker;Security+Through+Code+%26+Curiosity" />
+</p>
+
+---
+
+<!-- Two metric panels side by side -->
+<table width="100%">
+  <tr>
+    <!-- LEFT: GitHub / Languages / Wakatime -->
+    <td width="50%" valign="top" align="center">
+
+      <h3>📊 GitHub Metrics</h3>
+      <img src="https://metrics.lecoq.io/akiradreams?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&config.timezone=Europe%2FMadrid" />
+
+      <br/>
+
+      <h3>⌨️ Wakatime</h3>
+      <img src="https://metrics.lecoq.io/akiradreams?template=classic&config.timezone=Europe%2FMadrid&plugin=wakatime&plugin_wakatime=1&wakatime.user=current" />
+
+    </td>
+
+    <!-- RIGHT: Music / RSS / Stocks -->
+    <td width="50%" valign="top" align="center">
+
+      <h3>🎧 Spotify Top Tracks</h3>
+      <img src="https://metrics.lecoq.io/akiradreams?template=classic&config.timezone=Europe%2FMadrid&music=1&plugin_music=1&plugin_music_provider=spotify&plugin_music_user=akiradreams&plugin_music_mode=top&plugin_music_limit=9" />
+
+      <br/>
+
+      <h3>📰 Cybersecurity News (RSS)</h3>
+      <img src="https://metrics.lecoq.io/akiradreams?template=classic&plugin_rss=1&plugin_rss_source=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews&plugin_rss_limit=4" />
+
+      <br/>
+
+      <h3>📈 ETH Stock Price</h3>
+      <img src="https://metrics.lecoq.io/akiradreams?template=classic&plugin_stock=1&plugin_stock_symbol=ETH&plugin_stock_duration=1d&plugin_stock_interval=1m" />
+
+    </td>
+  </tr>
+</table>
