@@ -5,38 +5,30 @@
 
 ---
 
-<!-- Two metric panels side by side -->
-<table width="100%">
-  <tr>
-    <!-- LEFT: GitHub / Languages / Wakatime -->
-    <td width="50%" valign="top" align="center">
+### 🧠 General Overview
+![General](https://metrics.lecoq.io/akiradreams?template=classic&base=header,activity,community,repositories&config.timezone=Europe%2FMadrid)
 
-      <h3>📊 GitHub Metrics</h3>
-      <img src="https://metrics.lecoq.io/akiradreams?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&config.timezone=Europe%2FMadrid" />
+---
 
-      <br/>
+### 💻 Most Used Languages
+![Languages](https://metrics.lecoq.io/akiradreams?template=classic&config.timezone=Europe%2FMadrid&plugin_languages=1)
 
-      <h3>⌨️ Wakatime</h3>
-      <img src="https://metrics.lecoq.io/akiradreams?template=classic&config.timezone=Europe%2FMadrid&plugin=wakatime&plugin_wakatime=1&wakatime.user=current" />
+---
 
-    </td>
+### 🎧 Spotify — Top Tracks
+![Spotify](https://metrics.lecoq.io/akiradreams?template=classic&config.timezone=Europe%2FMadrid&plugin_music=1&plugin_music_provider=spotify&plugin_music_user=akiradreams&plugin_music_mode=top&plugin_music_limit=9)
 
-    <!-- RIGHT: Music / RSS / Stocks -->
-    <td width="50%" valign="top" align="center">
+---
 
-      <h3>🎧 Spotify Top Tracks</h3>
-      <img src="https://metrics.lecoq.io/akiradreams?template=classic&config.timezone=Europe%2FMadrid&music=1&plugin_music=1&plugin_music_provider=spotify&plugin_music_user=akiradreams&plugin_music_mode=top&plugin_music_limit=9" />
+### 📰 Latest Cybersecurity News (RSS)
+![RSS](https://metrics.lecoq.io/akiradreams?template=classic&plugin_rss=1&plugin_rss_source=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews&plugin_rss_limit=4)
 
-      <br/>
+---
 
-      <h3>📰 Cybersecurity News (RSS)</h3>
-      <img src="https://metrics.lecoq.io/akiradreams?template=classic&plugin_rss=1&plugin_rss_source=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews&plugin_rss_limit=4" />
+### 📈 Ethereum Price
+![ETH](https://metrics.lecoq.io/akiradreams?template=classic&plugin_stock=1&plugin_stock_symbol=ETH&plugin_stock_duration=1d&plugin_stock_interval=1m)
 
-      <br/>
+---
 
-      <h3>📈 ETH Stock Price</h3>
-      <img src="https://metrics.lecoq.io/akiradreams?template=classic&plugin_stock=1&plugin_stock_symbol=ETH&plugin_stock_duration=1d&plugin_stock_interval=1m" />
-
-    </td>
-  </tr>
-</table>
+### ⌨️ Wakatime Stats
+![Wakatime](https://metrics.lecoq.io/akiradreams?template=classic&plugin_wakatime=1&plugin_wakatime_user=current&plugin_wakatime_days=7&plugin_wakatime_sections=time,projects,languages,editors,os)
