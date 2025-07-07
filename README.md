@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/akira_glitch_v2 (1).gif" alt="glitch banner" style="width: 100%;" />
+  <img src="./assets/akira_glitch_v2.gif" alt="glitch banner" style="width: 100%;" />
 </p>
 
 <h2 align="center"><code>Welcome to my digital domain</code></h2>
