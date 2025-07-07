@@ -42,8 +42,10 @@ jobs:
           config_padding: 0, 5% # igual que arriba
           plugin_wakatime: yes
           plugin_wakatime_user: current
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_wakatime_sections: time, projects, languages
           plugin_stock: yes
           plugin_stock_symbol: ETH
           plugin_stock_duration: 1d
           plugin_stock_interval: 1m
+          plugin_stock_token: ""
