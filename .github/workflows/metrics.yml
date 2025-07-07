@@ -27,6 +27,8 @@ jobs:
           plugin_music_limit: 9
 
   github-metrics-right:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
