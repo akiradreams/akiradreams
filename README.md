@@ -5,30 +5,16 @@
 
 ---
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 General Overview
-<img src="./github-metrics-general.svg" alt="General metrics" width="100%" />
-
-### 💻 Most Used Languages
-<img src="./github-metrics-languages.svg" alt="Languages" width="100%" />
-
-### ⌨️ Wakatime Stats
-<img src="./github-metrics-wakatime.svg" alt="Wakatime" width="100%" />
+<td width="50%">
+  
+<img src="./left.svg" width="100%"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎧 Spotify — Top Tracks
-<img src="./github-metrics-music.svg" alt="Music" width="100%" />
-
-### 📰 Latest Cybersecurity News
-<img src="./github-metrics-rss.svg" alt="RSS" width="100%" />
-
-### 📈 Ethereum Price
-<img src="./github-metrics-stock.svg" alt="Stock ETH" width="100%" />
+<img src="./right.svg" width="100%"/>
 
 </td>
 </tr>
