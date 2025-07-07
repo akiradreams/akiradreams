@@ -7,14 +7,16 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
   
-<img src="./left.svg" width="100%"/>
+<!-- LEFT METRIC -->
+<img src="./left.svg" width="100%" alt="Left Metrics"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-<img src="./right.svg" width="100%"/>
+<!-- RIGHT METRIC -->
+<img src="./right.svg" width="100%" alt="Right Metrics"/>
 
 </td>
 </tr>
