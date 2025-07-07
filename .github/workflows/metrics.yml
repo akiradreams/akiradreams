@@ -35,7 +35,7 @@ jobs:
           filename: github-metrics-music.svg
           plugin_music: yes
           plugin_music_provider: spotify
-          plugin_music_user: akiradreams
+          plugin_music_user: genesisdy
           plugin_music_mode: top
           plugin_music_limit: 9
           config_timezone: Europe/Madrid
