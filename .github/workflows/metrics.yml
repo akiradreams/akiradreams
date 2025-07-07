@@ -1,11 +1,9 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: GitHub Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["main", "master"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,63 +12,56 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: akiradreams
           template: classic
-          base: ""
           config_timezone: Europe/Madrid
-          plugin_fortune: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+
+          # General Overview
+          filename: github-metrics-general.svg
+          base: header, activity, community, repositories
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-languages.svg
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: akalidreams
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          config_timezone: Europe/Madrid
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-music.svg
           plugin_music: yes
-          plugin_music_limit: 9
-          plugin_music_mode: top
-          plugin_music_playlist: https://open.spotify.com/playlist/5ZYmwnpr73WHwSB0kFwt5a?si=00d7d47e51984772
           plugin_music_provider: spotify
-          plugin_music_time_range: medium
-          plugin_music_top_type: tracks
           plugin_music_user: akiradreams
+          plugin_music_mode: top
+          plugin_music_limit: 9
+          config_timezone: Europe/Madrid
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-rss.svg
           plugin_rss: yes
-          plugin_rss_limit: 4
           plugin_rss_source: https://feeds.feedburner.com/TheHackersNews
+          plugin_rss_limit: 4
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-stock.svg
           plugin_stock: yes
+          plugin_stock_symbol: ETH
           plugin_stock_duration: 1d
           plugin_stock_interval: 1m
-          plugin_stock_symbol: ETH
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-wakatime.svg
           plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, languages, editors, os
