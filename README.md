@@ -1,6 +1,5 @@
-## Hey 👋, I'm Michael Dylan!  
+## Hey 👋, I'm Akira Dream!   
   
-
 <a href="https://github.com/SOFTekku" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -9,37 +8,28 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I am a Full Stack programmer with experience in cybersecurity as an N2 Analyst. My background in vulnerability analysis has provided me with a deep understanding of application security, while my passion for programming has driven me to develop skills in backend development and Full Stack technologies. 
 I consider myself a cooperative, adaptable individual with a strong motivation for continuous learning, always eager to contribute to the success of the team and the projects I am involved in.  
-  
 
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently looking for a job  
+- 💪 I'm currently looking for a job  
   
-
 - 🌱 I’m currently learning Mojo and Kubernetes  
   
-
-- ⚡ Fun fact: I hate Go, allways Py  
-
+- ⚡ Fun fact: I hate Go, always Py  
 
 </td><td valign="top" width="50%">
 
 <img src="https://media.tenor.com/RZ5w2J_UhksAAAAM/pochita.gif" align="left" style="width: 100%" />  
 
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -66,7 +56,6 @@ I consider myself a cooperative, adaptable individual with a strong motivation f
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -80,16 +69,9 @@ I consider myself a cooperative, adaptable individual with a strong motivation f
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=SOFTekku&&style=flat-square)  
-  
 
-<br/>  
-
-
+<br/>
 <br />
 
 ----
