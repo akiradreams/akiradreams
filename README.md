@@ -8,15 +8,34 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-  
-<!-- LEFT METRIC -->
-<img src="./left.svg" width="100%" alt="Left Metrics"/>
+
+<!-- HEADER -->
+<img src="./metric-header.svg" width="100%" alt="Header"/>
+
+<!-- REPOSITORIES -->
+<img src="./metric-repositories.svg" width="100%" alt="Repositories"/>
+
+<!-- MUSIC -->
+<img src="./metric-music.svg" width="100%" alt="Spotify Music"/>
+
+<!-- RSS -->
+<img src="./metric-rss.svg" width="100%" alt="RSS Feed"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<!-- RIGHT METRIC -->
-<img src="./right.svg" width="100%" alt="Right Metrics"/>
+<!-- ACTIVITY -->
+<img src="./metric-activity.svg" width="100%" alt="Activity"/>
+
+<!-- LANGUAGES -->
+<img src="./metric-languages.svg" width="100%" alt="Languages"/>
+
+<!-- WAKATIME -->
+<img src="./metric-wakatime.svg" width="100%" alt="WakaTime"/>
+
+<!-- STOCKS -->
+<img src="./metric-stock-arb.svg" width="100%" alt="ARB Stock"/>
+<img src="./metric-stock-sui.svg" width="100%" alt="SUI Stock"/>
 
 </td>
 </tr>
