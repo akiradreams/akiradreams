@@ -54,8 +54,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-languages.svg
           user: akiradreams
-          template: classic
-          base: ""  # Evita que aparezcan datos generales
           plugin_languages: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -127,6 +125,7 @@ jobs:
           plugin_stock_symbol: ARB-EUR
           plugin_stock_duration: 1d
           plugin_stock_interval: 1m
+          plugin_stock_token: ${{ secrets.STOCK_API_TOKEN }}
 
   github-metrics-stock-sui:
     permissions:
@@ -144,3 +143,4 @@ jobs:
           plugin_stock_symbol: SUI1-EUR
           plugin_stock_duration: 1d
           plugin_stock_interval: 1m
+          plugin_stock_token: ${{ secrets.STOCK_API_TOKEN }}
