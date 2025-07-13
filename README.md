@@ -9,11 +9,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<!-- HEADER -->
-<img src="./metric-header.svg" width="100%" alt="Header"/>
-
-<!-- REPOSITORIES -->
-<img src="./metric-repositories.svg" width="100%" alt="Repositories"/>
+<!-- LANGUAGES -->
+<img src="./metric-languages.svg" width="100%" alt="Languages"/>
 
 <!-- MUSIC -->
 <img src="./metric-music.svg" width="100%" alt="Spotify Music"/>
@@ -23,9 +20,6 @@
 
 </td>
 <td width="50%" align="center" valign="top">
-
-<!-- ACTIVITY -->
-<img src="./metric-activity.svg" width="100%" alt="Activity"/>
 
 <!-- LANGUAGES -->
 <img src="./metric-languages.svg" width="100%" alt="Languages"/>
