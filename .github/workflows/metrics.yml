@@ -54,6 +54,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-languages.svg
           user: akiradreams
+          template: classic
+          base: ""  # Evita que aparezcan datos generales
           plugin_languages: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -68,6 +70,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-rss.svg
           user: akiradreams
+          template: classic
+          base: ""
           plugin_rss: yes
           plugin_rss_source: https://feeds.feedburner.com/TheHackersNews
           plugin_rss_limit: 4
@@ -82,6 +86,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-music.svg
           user: akiradreams
+          template: classic
+          base: ""
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_user: genesisdy
@@ -98,6 +104,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-wakatime.svg
           user: akiradreams
+          template: classic
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
@@ -113,6 +121,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-stock-arb.svg
           user: akiradreams
+          template: classic
+          base: ""
           plugin_stock: yes
           plugin_stock_symbol: ARB-EUR
           plugin_stock_duration: 1d
@@ -128,6 +138,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metric-stock-sui.svg
           user: akiradreams
+          template: classic
+          base: ""
           plugin_stock: yes
           plugin_stock_symbol: SUI1-EUR
           plugin_stock_duration: 1d
