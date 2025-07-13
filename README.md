@@ -21,9 +21,6 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<!-- LANGUAGES -->
-<img src="./metric-languages.svg" width="100%" alt="Languages"/>
-
 <!-- WAKATIME -->
 <img src="./metric-wakatime.svg" width="100%" alt="WakaTime"/>
 
