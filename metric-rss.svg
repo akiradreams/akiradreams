@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="183" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
     <defs>
         <style/>
     </defs>
@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign</div>
+                                <div class="title">State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments</div>
                                 <div class="date">15 Jul 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Unusual Suspect: Git Repos</div>
-                                <div class="date">14 Jul 2025</div>
+                                <div class="title">Securing Agentic AI: How to Protect the Invisible Identity Access</div>
+                                <div class="date">15 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries</div>
-                                <div class="date">14 Jul 2025</div>
+                                <div class="title">AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe</div>
+                                <div class="date">15 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More</div>
-                                <div class="date">14 Jul 2025</div>
+                                <div class="title">North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign</div>
+                                <div class="date">15 Jul 2025</div>
                             </div>
                         </div>
                     </section>
