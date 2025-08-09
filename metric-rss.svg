@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials</div>
+                                <div class="date">9 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims</div>
                                 <div class="date">8 Aug 2025</div>
                             </div>
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes</div>
-                                <div class="date">8 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions</div>
                                 <div class="date">8 Aug 2025</div>
                             </div>
                         </div>
