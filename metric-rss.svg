@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Wazuh for Regulatory Compliance</div>
+                                <div class="date">18 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure</div>
                                 <div class="date">16 Aug 2025</div>
                             </div>
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools</div>
-                                <div class="date">15 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions</div>
                                 <div class="date">15 Aug 2025</div>
                             </div>
                         </div>
