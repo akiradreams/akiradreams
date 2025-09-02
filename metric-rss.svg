@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="183" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,15 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices</div>
+                                <div class="date">2 Sept 2025</div>
+                            </div>
+                        </div>
                         <div class="field rss">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans</div>
-                                <div class="date">1 Sept 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App &amp; More</div>
                                 <div class="date">1 Sept 2025</div>
                             </div>
                         </div>
