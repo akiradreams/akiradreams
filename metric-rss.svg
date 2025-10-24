@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability</div>
+                                <div class="title">Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation</div>
+                                <div class="date">24 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation</div>
                                 <div class="date">24 Oct 2025</div>
                             </div>
                         </div>
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently</div>
-                                <div class="date">24 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation</div>
                                 <div class="date">24 Oct 2025</div>
                             </div>
                         </div>
